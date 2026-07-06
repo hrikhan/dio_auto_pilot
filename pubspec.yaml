@@ -1,12 +1,12 @@
 name: dio_auto_pilot
 description: A Dio wrapper that adds automatic exponential-backoff retries and pluggable auth/token-refresh interceptors.
-version: 0.1.0
+version: 0.1.2
 homepage: https://github.com/hrikhan/dio_auto_pilot
 repository: https://github.com/hrikhan/dio_auto_pilot
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
-  flutter: '>=3.0.0'
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
