@@ -1,4 +1,8 @@
-## 0.1.0
+## 0.1.2
+
+* Added Author details to README.md.
+
+## 0.1.1
 
 * Initial release of `dio_auto_pilot`.
 * Added `DioAutoPilot` client wrapper implementing `Dio`.

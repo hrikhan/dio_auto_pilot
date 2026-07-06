@@ -219,4 +219,7 @@ Contributions are welcome! Please open an issue or submit a pull request on the 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-# dio_auto_pilot
+
+## Author
+
+Developed and maintained by **hridoykhan** ([hridoykhan.cse.cu@gmail.com](mailto:hridoykhan.cse.cu@gmail.com)).
